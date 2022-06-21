@@ -30,6 +30,16 @@ For more information on the technologies that power the Yukki Music Bot, check o
 <h4>Click the button below to deploy Yukki on Okteto!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/hyperman77/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
+## Workflows hosting
+
+<h4>Click the button below to import this code. How to host? Simply import this code then fill your vars in config.py then go to Actions and check build logs!</h4>
+<p align="center"><a href="https://github.com/new/import"><img src="https://img.shields.io/badge/Workflow%20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
+
+## 🚀 Circleci hosting
+
+<h4>Click the button to redirect on circleci Note: First fill your vars in config.py then connect with your GitHub in circleci then deploy!</h4>
+<p align="center"><a href="https://circleci.com/"><img src="https://img.shields.io/badge/CircleCi%20Deploy-red?style=for-the-badge&logo=circleci" width="200""/></a>
+
 # ⚡️ Getting Started
 
 ### Before deploying Yukki Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
