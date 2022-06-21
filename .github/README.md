@@ -25,7 +25,10 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
 
+## 🚀 Okteto Deployment
 
+<h4>Click the button below to deploy Yukki on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/hyperman77/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 # ⚡️ Getting Started
 
