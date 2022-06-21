@@ -17,7 +17,7 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", ""))
+API_ID = int(getenv("API_ID", "14795548"))
 API_HASH = getenv("API_HASH")
 
 ## Get it from @Botfather in Telegram.
@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/hyperman77/YukkiMusicBot.git",
+    "https://github.com/hyperman77/Squirrell.git",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
