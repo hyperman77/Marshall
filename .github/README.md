@@ -2,7 +2,7 @@
 
 # 𝐌𝐚𝐫𝐬𝐡𝐚𝐥𝐥 Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[𝐌𝐚𝐫𝐬𝐡𝐚𝐥𝐥 Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[𝐌𝐚𝐫𝐬𝐡𝐚𝐥𝐥 Music Bot](https://github.com/hyperman77/Marshall) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -14,7 +14,7 @@
 
 # 🔗 An Overview
 
-Here's a brief high-level overview of the Yukki Music Bot:
+Here's a brief high-level overview of the Marshall Music Bot:
 
 This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
 
@@ -23,20 +23,20 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 * The project uses the font [`Raleway`](../assets/font2.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
+For more information on the technologies that power the Marshall Music Bot, check out the [Docs](https://hyperman77.gitbook.io/Marshall/).
 
-<h4>Click the button below to deploy  on Heroku!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/hyperman77/Squirrell.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<h4>Click the button below to deploy Marshall on Heroku!</h4>    
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/hyperman77/Marshall.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 ## 🚀 Okteto Deployment
 
-<h4>Click the button below to deploy Yukki on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/hyperman77/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<h4>Click the button below to deploy Marshall on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/hyperman77/Marshall.git"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ## Workflows hosting
 
 <h4>Click the button below to import this code. How to host? Simply import this code then fill your vars in config.py then go to Actions and check build logs!</h4>
-<p align="center"><a href="https://github.com/hyperman77/Squirell"><img src="https://img.shields.io/badge/Workflow%20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
+<p align="center"><a href="https://github.com/hyperman77/Marshall"><img src="https://img.shields.io/badge/Workflow%20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
 
 ## 🚀 Circleci hosting
 
@@ -47,9 +47,9 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 ### Before deploying 𝐌𝐚𝐫𝐬𝐡𝐚𝐥𝐥 Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
-> If you want to start working with Yukki Music Bot you can either fork or import repo .
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
+> If you want to start working with Marshall Music Bot you can either fork or import repo .
+> The official [documentation site](https://hyperman77.gitbook.io/Marshall/) contains a lot of information. The best place to start is from the deployment section.
+> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/DuskyBotZSupport)
 
 
 ## 🖇 Prerequisites
@@ -60,7 +60,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
 - [MongoDB URI](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
-- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/string-session)
+- [Pyrogram String Session](https://hyperman77.gitbook.io/Marshall/deployment/string-session)
 
 
 ## 🖇 Generating Pyrogram String Session
