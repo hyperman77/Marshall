@@ -10,7 +10,7 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/TeamYukki/YukkiMusicBot
+   git clone https://github.com/hyperman77/Marshall
    ```
 
 2. Use sensible commit messages
@@ -35,10 +35,10 @@ Please try to create bug reports that are:
 ### How to submit a Pull Request
 
 1. Search our repository for open or closed
-   [Pull Requests](https://github.com/TeamYukki/YukkiMusicBot/pulls)
+   [Pull Requests](https://github.com/hyperman77/Marshall/pulls)
    that relate to your submission. You don't want to duplicate effort.
 2. Fork the project
 3. Create your feature branch (`git checkout -b feat/amazing_feature`)
-4. Commit your changes (`git commit -m 'feat: add amazing_feature'`) YukkiMusicBot uses [conventional commits](https://www.conventionalcommits.org), so please follow the specification in your commit messages.
+4. Commit your changes (`git commit -m 'feat: add amazing_feature'`) MarshallMusicBot uses [conventional commits](https://www.conventionalcommits.org), so please follow the specification in your commit messages.
 5. Push to the branch (`git push origin feat/amazing_feature`)
-6. [Open a Pull Request](https://github.com/TeamYukki/YukkiMusicBot/compare?expand=1)
+6. [Open a Pull Request](https://github.com/hyperman77/Marshall/compare?expand=1)
