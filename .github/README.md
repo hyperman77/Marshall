@@ -95,7 +95,7 @@ Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for be
 
 ## 👨🏻‍💻 Authors & contributors
 
-The original setup of this repository is by [Team Dusky](https://github.com/hyperman77).
+The original setup of this repository is by [Marshall](https://github.com/hyperman77).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/TeamYukki/YukkiMusicBot/contributors).
 
